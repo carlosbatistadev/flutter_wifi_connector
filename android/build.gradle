@@ -40,6 +40,6 @@ android {
 }
 
 dependencies {
-    implementation 'android.arch.lifecycle:common-java8:1.1.0'
-    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    // implementation 'android.arch.lifecycle:common-java8:1.1.0'
+    // implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
 }
